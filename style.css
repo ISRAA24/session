@@ -106,14 +106,7 @@ header .fa-bars{
     display: none;
 }
 
-.home{
-    display: flex;
-    align-items: center;
-    min-height: 100vh;
-    background-image: url(/images/background.jpg)  no-repeat;
-    background-size: cover;
-    background-position: center;
-}
+
 .home .content{
     max-width: 50rem;
 }
